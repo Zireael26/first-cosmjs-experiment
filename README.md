@@ -24,3 +24,5 @@ As you progress with your exercise, you can look at the _solutions_ in their res
 * `with-signing-stargate-client`, [diff](https://github.com/b9lab/cosmjs-sandbox/compare/with-stargate-client...with-signing-stargate-client)
 * `send-tokens`, [diff](https://github.com/b9lab/cosmjs-sandbox/compare/with-signing-stargate-client...send-tokens)
 * `send-tokens-local`, [diff](https://github.com/b9lab/cosmjs-sandbox/compare/send-tokens...send-tokens-local)
+
+Alice First Account: cosmos16ve6d3txsdxdx0w7k5hdl0dukjlqm03hkn2cw2
